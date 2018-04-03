@@ -1,0 +1,4 @@
+Required Python3 libs:
+html
+urllib
+validators
